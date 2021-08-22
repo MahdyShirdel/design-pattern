@@ -1,2 +1,2 @@
 # design-pattern
-this is a python object oriented design pattern repo.
+This is a python object oriented design pattern repo.
